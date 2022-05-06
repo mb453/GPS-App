@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Are_We_There_Yet_baxterm8.iml" filepath="$PROJECT_DIR$/.idea/modules/Are_We_There_Yet_baxterm8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Are_We_There_Yet_baxterm8.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Are_We_There_Yet_baxterm8.app.iml" />
+    </modules>
+  </component>
+</project>
